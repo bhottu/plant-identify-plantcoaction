@@ -7,8 +7,11 @@ use Monolog\Processor\PsrLogMessageProcessor;
 
 return [
 
+<<<<<<< HEAD
     
 
+=======
+>>>>>>> origin/master
     /*
     |--------------------------------------------------------------------------
     | Default Log Channel
@@ -60,10 +63,13 @@ return [
             'ignore_exceptions' => false,
         ],
 
+<<<<<<< HEAD
         'flare' => [
             'driver' => 'flare',
         ],
 
+=======
+>>>>>>> origin/master
         'single' => [
             'driver' => 'single',
             'path' => storage_path('logs/laravel.log'),
