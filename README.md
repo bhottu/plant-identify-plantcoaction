@@ -68,7 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 
 
-## Menggunakan API Trefle.io
+## Menggunakan API plant.id
 
 Rubah dengan API anda di file routes\web.php
 >>>>>>> origin/master
